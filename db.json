@@ -1,0 +1,41 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Mr. Cute",
+        "image": "https://cdn.pixabay.com/photo/2015/11/16/14/43/cat-1045782__340.jpg",
+        "votes": 0
+      },
+      {
+        "id": 2,
+        "name": "Mx. Monkey",
+        "image": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg",
+        "votes": 0
+      },
+      {
+        "id": 3,
+        "name": "Mr. Cute",
+        "image": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg",
+        "votes": 0
+      },
+      {
+        "id": 4,
+        "name": "Mr. Cute",
+        "image": "https://cdn.pixabay.com/photo/2015/11/16/14/43/cat-1045782__340.jpg",
+        "votes": 0
+      },
+      {
+        "id": 5,
+        "name": "Mr. Cute",
+        "image": "https://cdn.pixabay.com/photo/2015/11/16/14/43/cat-1045782__340.jpg",
+        "votes": 0
+      },
+      {
+        "id": 6,
+        "name": "Mr. Cute",
+        "image": "https://cdn.pixabay.com/photo/2015/11/16/14/43/cat-1045782__340.jpg",
+        "votes": 0
+      }
+    ]
+  }
+  

@@ -1,0 +1,89 @@
+/* Style your header */
+header {
+    background-color: #444;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style your main content */
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  /* Style your cards */
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+  }
+  
+  /* Style your images */
+  .card img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  
+  /* Style your buttons */
+  .card button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .card button:hover {
+    background-color: #3e8e41;
+  }
+  
+  /* Style your modal */
+  .modal {
+    background-color: rgba(0, 0, 0, 0.4);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    visibility: hidden;
+    z-index: 1;
+  }
+  
+  /* Style your modal content */
+  .modal-content {
+    background-color: #fefefe;
+    border: 1px solid #888;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    margin: 10% auto;
+    max-width: 50%;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+  }
+  
+  /* Style your close button */
+  .close {
+    color: #aaa;
+    cursor: pointer;
+    font-size: 28px;
+    position: absolute;
+    right: 10px;
+    top: 0;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
